@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+a {
+    color: rgb(173, 152, 14);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(173, 152, 14);
+}
+h3 {
+    color: white;
+}
+img {
+    width: 600px;
+    
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
